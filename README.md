@@ -27,6 +27,7 @@ How to Run
 Make sure Python is installed on your computer.
 
 python higherlower.py
+
 Purpose
 
 This project was created to practice Python fundamentals by building a simple interactive guessing game.
